@@ -1,0 +1,7 @@
+git config --global user.name "BacemF"
+git config --global user.email "ing.bacemfarhat@gmail.com"
+git config --list
+
+git init
+git add .
+git commit -m"this is first test"
